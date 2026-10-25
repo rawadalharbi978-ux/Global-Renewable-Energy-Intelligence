@@ -149,7 +149,7 @@ Methods: Exploratory Data Analysis, K-Means Clustering, Random Forest Regression
 Repository Contents
 
 •⁠  ⁠Global_Renewable_Energy_Intelligence.ipynb — Complete analytical workflow, visualizations, machine learning models, and evaluation.
-•⁠  ⁠Global_Renewable_Energy_Report.pdf — Detailed academic report presenting the methodology, results, figures, and interpretation.
+•⁠  ⁠Report.pdf. — Detailed academic report presenting the methodology, results, figures, and interpretation.
 
 Conclusion
 
