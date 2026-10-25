@@ -27,6 +27,9 @@ Rather than assuming that more complex models provide better predictions, the pr
 
 
 Dataset: https://github.com/owid/energy-data
+### Dataset Coverage Clarification
+
+The dataset covers a broader set of countries and territories, while the country-level forecasting evaluation includes 191 countries with eligible test observations. These figures represent different analytical subsets and should not be interpreted as contradictory.
 
  ## Analytical Methodology
 
